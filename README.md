@@ -12,7 +12,7 @@
 
  
 ### 🚀 About Me<br>
-- 🏢 DevOps & Full Stack Engineer @ **ARCOM** — Saudi Arabia
+- 🏢 DevOps & Full Stack Engineer @ **Alqemam qTech** — Saudi Arabia
 - ⚙️ I automate CI/CD pipelines, containerize workloads (Docker, Kubernetes) and manage cloud infrastructure as code (Terraform, Ansible/AWX)
 - 🧱 On the software side: ASP.NET Core, Angular and React, with N-Tier / Onion / Clean Architecture
 - 🔐 Experienced with JWT, SSO and LDAP / Active Directory integration
